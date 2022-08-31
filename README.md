@@ -1,3 +1,3 @@
 # Jogo da Velha
 
-Aplicação desenvolvida utilizando o React e o NextJS.
+Aplicação desenvolvida utilizando o ReactJS e o NextJS.
